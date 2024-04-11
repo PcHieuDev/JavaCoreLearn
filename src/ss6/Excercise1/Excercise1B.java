@@ -1,6 +1,6 @@
 package ss6.Excercise1;
 /*
-a.    Viết phương thức đổi một ký tự hoa sang ký tự thường.
+a.    Viết phương thức giai pt bac nhat
 */
 
 import java.util.Scanner;
